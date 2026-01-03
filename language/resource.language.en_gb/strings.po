@@ -1,6 +1,6 @@
 # Kodi Media Center language file
-# Addon Name: Confluence
-# Addon id: skin.confluence
+# Addon Name: ConfluenceNG
+# Addon id: skin.confluenceng
 # Addon Provider: Jezz_X, Team Kodi
 msgid ""
 msgstr ""
@@ -17,11 +17,11 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "Addon Summary"
-msgid "Confluence skin by Jezz_X."
+msgid "ConfluenceNG skin by Jezz_X."
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "Confluence is a combination of concepts from many popular skins, and attempts to embrace and integrate their good ideas into a skin that should be easy for first time Kodi users to understand and use."
+msgid "ConfluenceNG is a combination of concepts from many popular skins, and attempts to embrace and integrate their good ideas into a skin that should be easy for first time Kodi users to understand and use."
 msgstr ""
 
 msgctxt "#31000"

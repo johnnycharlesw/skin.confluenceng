@@ -1,6 +1,6 @@
 # Kodi Media Center language file
-# Addon Name: Confluence
-# Addon id: skin.confluence
+# Addon Name: ConfluenceNG
+# Addon id: skin.confluenceng
 # Addon Provider: Jezz_X, Team Kodi
 msgid ""
 msgstr ""
@@ -9,7 +9,7 @@ msgstr ""
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: 2025-02-20 02:27+0000\n"
 "Last-Translator: Heiko Berner <berner.h@gmail.com>\n"
-"Language-Team: Afrikaans (South Africa) <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-confluence/af_za/>\n"
+"Language-Team: Afrikaans (South Africa) <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-confluenceng/af_za/>\n"
 "Language: af_za\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,12 +18,12 @@ msgstr ""
 "X-Generator: Weblate 5.10\n"
 
 msgctxt "Addon Summary"
-msgid "Confluence skin by Jezz_X."
-msgstr "Confluence oortreksel deur Jezz_X."
+msgid "ConfluenceNG skin by Jezz_X."
+msgstr "ConfluenceNG oortreksel deur Jezz_X."
 
 msgctxt "Addon Description"
-msgid "Confluence is a combination of concepts from many popular skins, and attempts to embrace and integrate their good ideas into a skin that should be easy for first time Kodi users to understand and use."
-msgstr "Confluence is 'n kombinasie van konsepte van 'n klomp gewilde oortreksels, en 'n poging om hulle goeie idees te omvat en te integreer in 'n oortreksel wat maklik behoort te wees vir eerste keer Kodi gebruikers om te verstaan en te gebruik."
+msgid "ConfluenceNG is a combination of concepts from many popular skins, and attempts to embrace and integrate their good ideas into a skin that should be easy for first time Kodi users to understand and use."
+msgstr "ConfluenceNG is 'n kombinasie van konsepte van 'n klomp gewilde oortreksels, en 'n poging om hulle goeie idees te omvat en te integreer in 'n oortreksel wat maklik behoort te wees vir eerste keer Kodi gebruikers om te verstaan en te gebruik."
 
 msgctxt "#31000"
 msgid "Change your"

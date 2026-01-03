@@ -1,6 +1,6 @@
 # Kodi Media Center language file
-# Addon Name: Confluence
-# Addon id: skin.confluence
+# Addon Name: ConfluenceNG
+# Addon id: skin.confluenceng
 # Addon Provider: Jezz_X, Team Kodi
 msgid ""
 msgstr ""
@@ -9,7 +9,7 @@ msgstr ""
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: 2024-04-12 17:30+0000\n"
 "Last-Translator: Christian Gade <gade@kodi.tv>\n"
-"Language-Team: Greek <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-confluence/el_gr/>\n"
+"Language-Team: Greek <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-confluenceng/el_gr/>\n"
 "Language: el_gr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,12 +18,12 @@ msgstr ""
 "X-Generator: Weblate 5.4.3\n"
 
 msgctxt "Addon Summary"
-msgid "Confluence skin by Jezz_X."
-msgstr "Το κέλυφος Confluence από τον Jezz_X (προεπιλεγμένο κέλυφος του Kodi)."
+msgid "ConfluenceNG skin by Jezz_X."
+msgstr "Το κέλυφος ConfluenceNG από τον Jezz_X (προεπιλεγμένο κέλυφος του Kodi)."
 
 msgctxt "Addon Description"
-msgid "Confluence is a combination of concepts from many popular skins, and attempts to embrace and integrate their good ideas into a skin that should be easy for first time Kodi users to understand and use."
-msgstr "Το Confluence είναι η προεπιλεγμένη αμφίεση για τις εκδόσεις Kodi 14.0 και άνω. Είναι ένας συνδυασμός από πολλές δημοφιλής αμφιέσεις, και επιχειρεί να παρέχει τις καλύτερες ιδέες τους σε μία αμφίεση, το οποίο είναι εύκολο για τους αρχάριους χρήστες του Kodi να κατανοήσουν και να χρησιμοποιήσουν."
+msgid "ConfluenceNG is a combination of concepts from many popular skins, and attempts to embrace and integrate their good ideas into a skin that should be easy for first time Kodi users to understand and use."
+msgstr "Το ConfluenceNG είναι η προεπιλεγμένη αμφίεση για τις εκδόσεις Kodi 14.0 και άνω. Είναι ένας συνδυασμός από πολλές δημοφιλής αμφιέσεις, και επιχειρεί να παρέχει τις καλύτερες ιδέες τους σε μία αμφίεση, το οποίο είναι εύκολο για τους αρχάριους χρήστες του Kodi να κατανοήσουν και να χρησιμοποιήσουν."
 
 msgctxt "#31000"
 msgid "Change your"

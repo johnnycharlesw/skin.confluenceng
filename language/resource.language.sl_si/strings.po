@@ -1,6 +1,6 @@
 # Kodi Media Center language file
-# Addon Name: Confluence
-# Addon id: skin.confluence
+# Addon Name: ConfluenceNG
+# Addon id: skin.confluenceng
 # Addon Provider: Jezz_X, Team Kodi
 msgid ""
 msgstr ""
@@ -9,7 +9,7 @@ msgstr ""
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: 2024-11-09 18:52+0000\n"
 "Last-Translator: Simon <dolenec@gmail.com>\n"
-"Language-Team: Slovenian <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-confluence/sl_si/>\n"
+"Language-Team: Slovenian <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-confluenceng/sl_si/>\n"
 "Language: sl_si\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,12 +18,12 @@ msgstr ""
 "X-Generator: Weblate 5.8.2\n"
 
 msgctxt "Addon Summary"
-msgid "Confluence skin by Jezz_X."
-msgstr "Preobleka Confluence avtorja Jezz_X. (Privzeta preobleka za Kodi)"
+msgid "ConfluenceNG skin by Jezz_X."
+msgstr "Preobleka ConfluenceNG avtorja Jezz_X. (Privzeta preobleka za Kodi)"
 
 msgctxt "Addon Description"
-msgid "Confluence is a combination of concepts from many popular skins, and attempts to embrace and integrate their good ideas into a skin that should be easy for first time Kodi users to understand and use."
-msgstr "Confluence je privzeta preobleka za Kodi 14.0 in novejše. Je kombinacija konceptov mnogih priljubljenih preoblek in poskuša zaobjeti in integrirati njihove dobre ideje v preobleko, ki bi bila preprosta za uporabo in razumevanje tudi novim uporabnikom."
+msgid "ConfluenceNG is a combination of concepts from many popular skins, and attempts to embrace and integrate their good ideas into a skin that should be easy for first time Kodi users to understand and use."
+msgstr "ConfluenceNG je privzeta preobleka za Kodi 14.0 in novejše. Je kombinacija konceptov mnogih priljubljenih preoblek in poskuša zaobjeti in integrirati njihove dobre ideje v preobleko, ki bi bila preprosta za uporabo in razumevanje tudi novim uporabnikom."
 
 msgctxt "#31000"
 msgid "Change your"

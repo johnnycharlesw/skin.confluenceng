@@ -1,6 +1,6 @@
 # Kodi Media Center language file
-# Addon Name: Confluence
-# Addon id: skin.confluence
+# Addon Name: ConfluenceNG
+# Addon id: skin.confluenceng
 # Addon Provider: Jezz_X, Team Kodi
 msgid ""
 msgstr ""
@@ -9,7 +9,7 @@ msgstr ""
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: 2025-10-15 15:29+0000\n"
 "Last-Translator: Marek Adamski <fevbew@wp.pl>\n"
-"Language-Team: Polish <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-confluence/pl_pl/>\n"
+"Language-Team: Polish <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-confluenceng/pl_pl/>\n"
 "Language: pl_pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,12 +18,12 @@ msgstr ""
 "X-Generator: Weblate 5.13.3\n"
 
 msgctxt "Addon Summary"
-msgid "Confluence skin by Jezz_X."
-msgstr "Skóra Confluence autorstwa Jezz_X."
+msgid "ConfluenceNG skin by Jezz_X."
+msgstr "Skóra ConfluenceNG autorstwa Jezz_X."
 
 msgctxt "Addon Description"
-msgid "Confluence is a combination of concepts from many popular skins, and attempts to embrace and integrate their good ideas into a skin that should be easy for first time Kodi users to understand and use."
-msgstr "Confluence to połączenie koncepcji wielu popularnych skór oraz próba objęcia i zintegrowania ich dobrych pomysłów ze skórą, która powinna być łatwa do opanowania i używania przez użytkowników Kodi po raz pierwszy."
+msgid "ConfluenceNG is a combination of concepts from many popular skins, and attempts to embrace and integrate their good ideas into a skin that should be easy for first time Kodi users to understand and use."
+msgstr "ConfluenceNG to połączenie koncepcji wielu popularnych skór oraz próba objęcia i zintegrowania ich dobrych pomysłów ze skórą, która powinna być łatwa do opanowania i używania przez użytkowników Kodi po raz pierwszy."
 
 msgctxt "#31000"
 msgid "Change your"

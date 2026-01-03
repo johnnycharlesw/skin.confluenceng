@@ -9,7 +9,7 @@ on:
 
 jobs:
   default:
-    if: github.repository == 'xbmc/skin.confluence'
+    if: github.repository == 'xbmc/skin.confluenceng'
     runs-on: ubuntu-latest
 
     steps:
